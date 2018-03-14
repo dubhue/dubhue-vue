@@ -7,7 +7,7 @@
 		"uuidString": "68A5169B-5EAB-4B81-8D1C-6FADDD1AFDBD"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26330",
 "files": {
 	"\/categories\/branding.png": {
 		"ft": 32768,
@@ -25,6 +25,17 @@
 		"iS": 706146,
 		"oA": 0,
 		"oAP": "\/categories\/collateral.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/categories\/digital.png": {
+		"ft": 32768,
+		"iS": 110494,
+		"oA": 0,
+		"oAP": "\/categories\/digital.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -95,6 +106,99 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/1up\/cutcopy.png": {
+		"ft": 32768,
+		"iS": 240752,
+		"oA": 0,
+		"oAP": "\/projects\/1up\/cutcopy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/1up\/digital.png": {
+		"ft": 32768,
+		"iS": 110494,
+		"oA": 0,
+		"oAP": "\/projects\/1up\/digital.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/1up\/halloween.jpg": {
+		"ft": 16384,
+		"iS": 63370,
+		"oA": 0,
+		"oAP": "\/projects\/1up\/halloween.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/projects\/1up\/hermitude-fb.jpg": {
+		"ft": 16384,
+		"iS": 49567,
+		"oA": 0,
+		"oAP": "\/projects\/1up\/hermitude-fb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/projects\/1up\/jeromelol.jpg": {
+		"ft": 16384,
+		"iS": 67420,
+		"oA": 0,
+		"oAP": "\/projects\/1up\/jeromelol.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/projects\/colibrihv\/desktop.jpg": {
+		"ft": 16384,
+		"iS": 43477,
+		"oA": 0,
+		"oAP": "\/projects\/colibrihv\/desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/colibrihv\/mobile.jpg": {
+		"ft": 16384,
+		"iS": 31979,
+		"oA": 0,
+		"oAP": "\/projects\/colibrihv\/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/colibrihv\/tablet.png": {
+		"ft": 32768,
+		"iS": 42455,
+		"oA": 0,
+		"oAP": "\/projects\/colibrihv\/tablet.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/cot\/mobile.jpg": {
+		"ft": 16384,
+		"iS": 47284,
+		"oA": 0,
+		"oAP": "\/projects\/cot\/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/projects\/dam\/layout.png": {
@@ -190,6 +294,37 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/projects\/intensity\/desktop.jpg": {
+		"ft": 16384,
+		"iS": 46331,
+		"oA": 0,
+		"oAP": "\/projects\/intensity\/desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/intensity\/mobile.jpg": {
+		"ft": 16384,
+		"iS": 41836,
+		"oA": 0,
+		"oAP": "\/projects\/intensity\/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/intensity\/tablet.png": {
+		"ft": 32768,
+		"iS": 228665,
+		"oA": 0,
+		"oAP": "\/projects\/intensity\/tablet.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/projects\/nsupply\/badness.jpg": {
 		"ft": 16384,
 		"iS": 81799,
@@ -241,6 +376,37 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/projects\/ntmwd\/desktop.jpg": {
+		"ft": 16384,
+		"iS": 76707,
+		"oA": 0,
+		"oAP": "\/projects\/ntmwd\/desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/ntmwd\/phone.png": {
+		"ft": 32768,
+		"iS": 69067,
+		"oA": 0,
+		"oAP": "\/projects\/ntmwd\/phone.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/ntmwd\/tablet.jpg": {
+		"ft": 16384,
+		"iS": 53309,
+		"oA": 0,
+		"oAP": "\/projects\/ntmwd\/tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/projects\/placeholder.png": {
 		"ft": 32768,
 		"iS": 24567,
@@ -260,6 +426,27 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/rmg\/mobile.jpg": {
+		"ft": 16384,
+		"iS": 55567,
+		"oA": 0,
+		"oAP": "\/projects\/rmg\/mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/rmw\/rmw-ar.png": {
+		"ft": 32768,
+		"iS": 166021,
+		"oA": 0,
+		"oAP": "\/projects\/rmw\/rmw-ar.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/projects\/rmw\/sponsor-packet.png": {
@@ -282,6 +469,26 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/sinkcombs\/ipad.jpg": {
+		"ft": 16384,
+		"iS": 47019,
+		"oA": 0,
+		"oAP": "\/projects\/sinkcombs\/ipad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/sinkcombs\/phone.jpg": {
+		"ft": 16384,
+		"iS": 41745,
+		"oA": 0,
+		"oAP": "\/projects\/sinkcombs\/phone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/projects\/sports\/bcard.png": {
@@ -315,11 +522,95 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/projects\/thr\/desktop.jpg": {
+		"ft": 16384,
+		"iS": 78776,
+		"oA": 0,
+		"oAP": "\/projects\/thr\/desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/thr\/mobile-home.png": {
+		"ft": 32768,
+		"iS": 141064,
+		"oA": 0,
+		"oAP": "\/projects\/thr\/mobile-home.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/thr\/tablet.jpg": {
+		"ft": 16384,
+		"iS": 60150,
+		"oA": 0,
+		"oAP": "\/projects\/thr\/tablet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/thr\/web.png": {
+		"ft": 32768,
+		"iS": 36193,
+		"oA": 0,
+		"oAP": "\/projects\/thr\/web.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/projects\/tulp\/bcard.png": {
 		"ft": 32768,
 		"iS": 115235,
 		"oA": 0,
 		"oAP": "\/projects\/tulp\/bcard.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/wmk\/desktop.jpg": {
+		"ft": 16384,
+		"iS": 50542,
+		"oA": 0,
+		"oAP": "\/projects\/wmk\/desktop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/wmk\/ipad.png": {
+		"ft": 32768,
+		"iS": 193777,
+		"oA": 0,
+		"oAP": "\/projects\/wmk\/ipad.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/wmk\/phone.jpg": {
+		"ft": 16384,
+		"iS": 36424,
+		"oA": 0,
+		"oAP": "\/projects\/wmk\/phone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/wmk\/phone.png": {
+		"ft": 32768,
+		"iS": 117617,
+		"oA": 0,
+		"oAP": "\/projects\/wmk\/phone.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -343,6 +634,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -906,6 +1198,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
