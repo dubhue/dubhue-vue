@@ -7,7 +7,9 @@
       "categories": [ "web", "uiux", "dev"],
       "description": "<p>Behind every great structure are great plans—such is the same for a website. For the North Texas Municipal Water District, planning was key.</p><p>The sitemap was a balance of client desires met with what was found through research and analytics, to best alleviate pain points and bring to focus most-used content.</p><p>The result was a drastic but lauded change that led to recognition from Omni Awards and AVA Digital Awards.</p>",
       "gallery": [
-        { "file": "phone.png", "alt": "NTMWD Phone"}
+        { "file": "phone.png", "alt": "NTMWD Phone"},
+        { "file": "tablet.jpg", "alt": "tablet"},
+        { "file": "desktop.jpg", "alt": "desktop" }
       ],
       "sort": 0,
       "links": [
@@ -69,6 +71,9 @@
       "categories": [ "dev" ],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "gallery": [
+        { "file": "tablet.png", "alt": "tablet" },
+        { "file": "mobile.jpg", "alt": "mobile"},
+        { "file": "desktop.jpg", "alt": "desktop"}
       ],
       "sort": 0,
       "links": [
@@ -85,6 +90,9 @@
       "categories": [ "uiux", "dev" ],
       "description": "<p>This project utilized the interactivity of web to convey the application of the TAVI product. The site used scroll reveal animation to demonstration the ready-for-use application of the TAVI system.</p>",
       "gallery": [
+        { "file": "tablet.png", "alt": "Colibri Tablet" },
+        { "file": "mobile.jpg", "alt": "CHV Mobile"},
+        { "file": "desktop.jpg", "alt": "CHV Desktop"}
       ],
       "sort": 0,
       "links": [
@@ -118,6 +126,10 @@
       "categories": [ "web", "uiux", "dev" ],
       "description": "<p>Texas Health Resources wanted to stay savvy and move their print community responsibility and sustainability report into the digital world.</p><p>They did not want to sacrifice on content, but instead enhance it with an easy user experience and multimedia elements. Their digital report microsite allowed them to share their story and even garnered them recognition with an AVA Digital Award.</p>",
       "gallery": [
+        { "file": "mobile-home.png", "alt": "mobile 1" },
+        { "file": "tablet.jpg", "alt": "tablet" },
+        { "file": "web.png", "alt": "mobile 2"},
+        { "file": "desktop.jpg", "alt": "desktop" }
       ],
       "sort": 0,
       "links": [
@@ -157,22 +169,6 @@
         {
           "title": "View Website",
           "url": "http://www.sinkcombs.com"
-        }
-      ]
-    },
-    {
-      "slug": "rmg",
-      "name": "RMG Engineering",
-      "sub": "Scratch The Surface App",
-      "categories": [ "dev" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "gallery": [
-      ],
-      "sort": 0,
-      "links": [
-        {
-          "title": "View Website",
-          "url": "https://www.rmg-engineers.com/scratch"
         }
       ]
     },
