@@ -36,10 +36,11 @@
       "name": "Sports Authority",
       "sub": "Be The Authority",
       "categories": [ "web", "branding", "uiux", "layout"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>What could have been? Although this brand has gone by the wayside, at the time of this project, the struggling once-giant was still holding on and it was apparent that the brand needed a refresh.</p><p>This project reimagined not only the company’s look but gave the brand meaning with a new mantra. The whistle icon was inspired by the most authoritative position in sports—the referee. The idea behind the messaging was to empower both the consumer and employees—be the authority.</p>",
       "gallery": [
         { "file": "bcard.png", "alt": "Business Cards" },
-        { "file": "branding.jpg", "alt": "Store Signage"}
+        { "file": "branding.jpg", "alt": "Store Signage"},
+        { "file": "brandbook.jpg", "alt": "Brand Standards"}
       ],
       "sort": 1,
       "links": [
@@ -48,11 +49,13 @@
     {
       "slug": "dam",
       "name": "Denver Art Museum",
-      "sub": "Max Bill",
+      "sub": "Max Bill Exhibit",
       "categories": [ "branding", "print", "layout" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>This project imagined what would happen if the Denver Art Museum were to put on a special exhibition for graphic and \"concrete\" artist Max Bill. The collateral pieces channeled Max Bill's trademark use of geometric shapes and bright colors. The pieces produced included a program, event tickets and an event poster.</p>",
       "gallery": [
-        { "file": "layout.png", "alt": "Max Bill Program Layout" }
+        { "file": "layout.png", "alt": "Max Bill Program Layout" },
+        { "file": "tickets.jpg", "alt": "Max Bill Event Tickets" },
+        { "file": "posters.jpg", "alt": "Max Bill Event Poster" }
       ],
       "sort": 10,
       "links": [
@@ -94,7 +97,7 @@
       "slug": "1up",
       "name": "The 1up Colfax",
       "sub": "Bits & Beats",
-      "categories": [ "print", "branding"],
+      "categories": [ "print", "branding", "digital"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "gallery": [
       ],
@@ -125,6 +128,7 @@
       "categories": [ "print", "branding"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "gallery": [
+        { "file": "sponsor-packet.png", "alt": "RMW Bites & Brews Sponsor Packet" }
       ],
       "sort": 2,
       "links": [
@@ -148,7 +152,7 @@
       ]
     },
     {
-      "slug": "scratch",
+      "slug": "rmg",
       "name": "RMG Engineering",
       "sub": "Scratch The Surface App",
       "categories": [ "dev" ],
@@ -161,6 +165,36 @@
           "title": "View Website",
           "url": "https://www.rmg-engineers.com/scratch"
         }
+      ]
+    },
+    {
+      "slug": "tulp",
+      "name": "Tulp Company",
+      "sub": "Real Estate Investments",
+      "categories": [ "logos", "print" ],
+      "description": "<p>Experienced east coast real estate investors came to the Denver area a few years ago looking to establish a new name and brand for a local real estate investment company.</p>",
+      "gallery": [
+        { "file": "bcard.png", "alt": "Tulp Business Cards" }
+      ],
+      "sort": 20,
+      "links": [
+      ]
+    },
+    {
+      "slug": "nsupply",
+      "name": "Night Supply",
+      "sub": "Independent Record Company",
+      "categories": [ "logos", "branding", "print", "digital" ],
+      "description": "<p>Night Supply Records came from a scene slightly short on exposure, but long on talent; representing an exciting new outlet for some of the hardest working acts in the electronic music game to distribute non-commercial dance music.</p>",
+      "gallery": [
+        { "file": "patch.png", "alt": "Night Supply Patch" },
+        { "file": "solisten.jpg", "alt": "N&N So Listen"},
+        { "file": "mosis.jpg", "alt": "Mosis"},
+        { "file": "tunnel.jpg", "alt": "Tunnel Vision"},
+        { "file": "badness.jpg", "alt": "Badness"}
+      ],
+      "sort": 20,
+      "links": [
       ]
     }
   ]

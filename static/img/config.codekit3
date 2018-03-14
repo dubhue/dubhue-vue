@@ -7,7 +7,7 @@
 		"uuidString": "68A5169B-5EAB-4B81-8D1C-6FADDD1AFDBD"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26148",
 "files": {
 	"\/categories\/branding.png": {
 		"ft": 32768,
@@ -20,11 +20,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/categories\/collateral.png": {
+		"ft": 32768,
+		"iS": 706146,
+		"oA": 0,
+		"oAP": "\/categories\/collateral.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/categories\/layout.png": {
 		"ft": 32768,
 		"iS": 271055,
 		"oA": 0,
 		"oAP": "\/categories\/layout.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/categories\/logos.png": {
+		"ft": 32768,
+		"iS": 544654,
+		"oA": 0,
+		"oAP": "\/categories\/logos.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -73,6 +95,37 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/dam\/layout.png": {
+		"ft": 32768,
+		"iS": 86764,
+		"oA": 0,
+		"oAP": "\/projects\/dam\/layout.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/dam\/posters.jpg": {
+		"ft": 16384,
+		"iS": 133043,
+		"oA": 0,
+		"oAP": "\/projects\/dam\/posters.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/dam\/tickets.jpg": {
+		"ft": 16384,
+		"iS": 59889,
+		"oA": 0,
+		"oAP": "\/projects\/dam\/tickets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/projects\/gatorade\/logos.jpg": {
@@ -137,6 +190,57 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/projects\/nsupply\/badness.jpg": {
+		"ft": 16384,
+		"iS": 81799,
+		"oA": 0,
+		"oAP": "\/projects\/nsupply\/badness.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/nsupply\/mosis.jpg": {
+		"ft": 16384,
+		"iS": 81818,
+		"oA": 0,
+		"oAP": "\/projects\/nsupply\/mosis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/nsupply\/patch.png": {
+		"ft": 32768,
+		"iS": 544654,
+		"oA": 0,
+		"oAP": "\/projects\/nsupply\/patch.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/projects\/nsupply\/solisten.jpg": {
+		"ft": 16384,
+		"iS": 87434,
+		"oA": 0,
+		"oAP": "\/projects\/nsupply\/solisten.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/nsupply\/tunnel.jpg": {
+		"ft": 16384,
+		"iS": 87939,
+		"oA": 0,
+		"oAP": "\/projects\/nsupply\/tunnel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/projects\/placeholder.png": {
 		"ft": 32768,
 		"iS": 24567,
@@ -155,7 +259,18 @@
 		"oAP": "\/projects\/projbg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/rmw\/sponsor-packet.png": {
+		"ft": 32768,
+		"iS": 706146,
+		"oA": 0,
+		"oAP": "\/projects\/rmw\/sponsor-packet.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/projects\/sinkcombs\/desktop.png": {
@@ -164,8 +279,8 @@
 		"oA": 0,
 		"oAP": "\/projects\/sinkcombs\/desktop.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -180,6 +295,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/projects\/sports\/brandbook.jpg": {
+		"ft": 16384,
+		"iS": 84073,
+		"oA": 0,
+		"oAP": "\/projects\/sports\/brandbook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/projects\/sports\/branding.jpg": {
 		"ft": 16384,
 		"iS": 114687,
@@ -188,6 +313,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/projects\/tulp\/bcard.png": {
+		"ft": 32768,
+		"iS": 115235,
+		"oA": 0,
+		"oAP": "\/projects\/tulp\/bcard.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		}
 	},
@@ -207,7 +343,6 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
-	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -771,10 +906,6 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
-			},
-		"implicit-arrow-linebreak": {
-			"active": 0,
-			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

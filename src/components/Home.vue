@@ -25,7 +25,6 @@ export default {
 
 #home {
   display: flex;
-  //flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: calc(100vh - #{$headerHeight});

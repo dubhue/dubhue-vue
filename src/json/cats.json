@@ -1,14 +1,15 @@
 {
   "branding": { "name": "Branding", "sort": 7, "image": "branding.png" },
   "uiux": { "name": "User Interface / Experience", "sort": 2, "image": "uiux.png" },
-  "logos": { "name": "Logo Design", "sort": 8 },
+  "logos": { "name": "Logo Design", "sort": 8, "image": "logos.png" },
   "packages": { "name": "Package Design", "sort": 5 , "image": "packages.png"},
   "ads": { "name": "Advertising", "sort": 6 },
   "web": { "name": "Web Design", "sort": 4, "image": "web.png" },
   "dev": { "name": "Web Development", "sort": 1, "image": "ui.png" },
-  "print": { "name": "Print Collateral", "sort": 3 },
+  "print": { "name": "Print Collateral", "sort": 3, "image": "collateral.png" },
   "layout": { "name": "Layout Design", "sort": 0, "image": "layout.png"},
   "motion": { "name": "Motion Graphics", "sort": 9 },
   "illustration": { "name": "Digital Illustration", "sort": 9},
-  "photo": { "name": "Photography", "sort": 9 }
+  "photo": { "name": "Photography", "sort": 9 },
+  "digital": { "name": "Digital Design", "sort": 8 }
 }

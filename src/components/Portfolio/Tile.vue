@@ -1,6 +1,6 @@
 <template lang="html">
     <div class="row tiles">
-      <router-link v-for="a in array" :to="{ name: name, params: {slug: a.slug} }" class="col-12 col-md-6 col-lg-4 tile" :key="a.slug">
+      <router-link v-for="a in array" :to="{ name: name, params: {slug: a.slug} }" class="col-12 col-md-6 col-xl-4 tile" :key="a.slug">
         <div class="tile-wrap">
             <img :src="'/static/img/projects/gradbg.jpg'" alt="Placeholder Image" class="tile-bg">
           <template v-if="name === 'Category'">
