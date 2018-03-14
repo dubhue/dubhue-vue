@@ -11,5 +11,5 @@
   "motion": { "name": "Motion Graphics", "sort": 9 },
   "illustration": { "name": "Digital Illustration", "sort": 9},
   "photo": { "name": "Photography", "sort": 9 },
-  "digital": { "name": "Digital Design", "sort": 8 }
+  "digital": { "name": "Digital Design", "sort": 8, "image": "digital.png" }
 }
