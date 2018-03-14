@@ -1,0 +1,19 @@
+$colCyan: #88D4E8;
+$colBlue: #4490B2;
+$colViol: #9A90C3;
+$colPurp: #BA80B8;
+$colLime: #E8F0C3;
+$colVerm: #F2A894;
+$colRev: #fefefe;
+$colGrey: #677280;
+$colRose: #ef4b55;
+$colText: lighten($colGrey,20);
+
+@mixin dubhue($start,$end){
+  background: $start;
+  background: -moz-linear-gradient(left, #{$start} 0%, #{$end} 100%);
+  background: -webkit-linear-gradient(left, #{$start} 0%,#{$end} 100%);
+  background: linear-gradient(to right, #{$start} 0%,#{$end} 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$start}', endColorstr='#{end}',GradientType=1 );
+  transition: background .7s ease;
+}

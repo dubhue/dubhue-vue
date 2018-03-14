@@ -1,0 +1,12 @@
+@import 'colors';
+@import 'wmk';
+
+$headerHeight: 56px;
+
+//type
+$coHeadline: 'co-headline', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$coText: 'co-text', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+$coLight: 300;
+$coReg: 400;
+$coBold: 700;

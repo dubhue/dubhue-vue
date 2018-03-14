@@ -1,0 +1,82 @@
+.tile {
+  position: relative;
+  padding: 1rem .5rem .5rem .5rem;
+  .tile-wrap {
+    position: relative;
+  }
+  .tile-img {
+    max-width: 100%;
+    position: relative;
+    z-index: 50;
+    //border-radius: 50%;
+  }
+  .tile-content, .tile-cover, .tile-gradient, .tile-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+  }
+  .tile-bg {
+    top: 0;
+    left: 0;
+    z-index: 10;
+  }
+  .tile-gradient {
+    opacity: .7;
+    top:0;
+    left:0;
+    z-index: 60;
+    background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 60%, rgba(0,0,0,0.65) 100%);
+    background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 60%, rgba(0,0,0,0.65) 100%);
+    background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 60%, rgba(0,0,0,0.65) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+    transition: all .3s ease;
+      }
+  .tile-content {
+    opacity: 1;
+    align-items: flex-end;
+    justify-content: flex-start;
+    transition: all .5s ease;
+    top: 0;
+    left: 0;
+    z-index: 100;
+  }
+
+  .tile-cover {
+    height: 0%;
+    opacity: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 40;
+    justify-content: center;
+    align-items: center;
+    @include dubhue($colCyan,$colViol);
+    transition: .3s all ease;
+  }
+  .tile-title {
+    color: lighten($colGrey,40);
+    transition: .4s all ease;
+    padding: .5rem 2rem;
+  }
+  &:hover {
+    .tile-gradient {
+      opacity: .6;
+      transition: all .5s ease;
+    }
+    .tile-content {
+      opacity: 1;
+      transition: all .6s ease;
+    }
+    .tile-cover {
+      height: 100%;
+      opacity: .5;
+      transition: .6s all ease;
+      padding: 1rem;
+    }
+    .tile-title {
+      color: $colRev;
+      transition: .4s all ease;
+    }
+  }
+
+}

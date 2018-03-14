@@ -1,0 +1,7 @@
+
+.dhl-left-open-big:before { content: '\e800'; } /* '' */
+.dhl-right-open-big:before { content: '\e801'; } /* '' */
+.dhl-mail:before { content: '\e802'; } /* '' */
+.dhl-vcard:before { content: '\e803'; } /* '' */
+.dhl-pinterest:before { content: '\f312'; } /* '' */
+.dhl-linkedin:before { content: '\f318'; } /* '' */

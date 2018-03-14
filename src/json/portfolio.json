@@ -1,0 +1,167 @@
+{
+  "projects": [
+    {
+      "slug": "ntmwd",
+      "name": "North Texas Municpal Water District",
+      "sub": "More Than Water",
+      "categories": [ "web", "uiux", "dev"],
+      "description": "<p>Behind every great structure are great plans—such is the same for a website. For the North Texas Municipal Water District, planning was key.</p><p>The sitemap was a balance of client desires met with what was found through research and analytics, to best alleviate pain points and bring to focus most-used content.</p><p>The result was a drastic but lauded change that led to recognition from Omni Awards and AVA Digital Awards.</p>",
+      "gallery": [
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "https://www.ntmwd.com"
+        }
+      ]
+    },
+    {
+      "slug": "gatorade",
+      "name": "Gatorade",
+      "sub": "A New Game Plan",
+      "categories": [ "branding", "packages", "web", "logos"],
+      "description": "<p>How can you reinvent an industry stalwart? Gatorade is an iconic brand with a storied history, so why not imagine what would happen in some new market verticals? Here’s a take on possible forays into the organic, natural sugar substitute, energy chew and energy drink categories.</p><p>The line between the real world and digital world continues to blur, as life for most of today’s consumers is immersed in each of these planes. A digital presence needs to act as an efficient and effective bridge to get a consumer to merge with a brand in the flesh.</p><p>With effective messaging and mobile-conscious design, a web presence can do just that. Here are examples of digital marketing support for these new incarnations of Gatorade.</p>",
+      "gallery": [
+          { "file": "stevia-package.png", "alt": "Gatorade Organic Product" },
+          { "file": "logos.jpg", "alt": "Logo Examples"},
+          { "file": "mobile-stevia.jpg", "alt": "Gatorade Stevia"}
+      ],
+      "sort": 0,
+      "links": [
+      ]
+    },
+    {
+      "slug": "sports",
+      "name": "Sports Authority",
+      "sub": "Be The Authority",
+      "categories": [ "web", "branding", "uiux", "layout"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+        { "file": "bcard.png", "alt": "Business Cards" },
+        { "file": "branding.jpg", "alt": "Store Signage"}
+      ],
+      "sort": 1,
+      "links": [
+      ]
+    },
+    {
+      "slug": "dam",
+      "name": "Denver Art Museum",
+      "sub": "Max Bill",
+      "categories": [ "branding", "print", "layout" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+        { "file": "layout.png", "alt": "Max Bill Program Layout" }
+      ],
+      "sort": 10,
+      "links": [
+      ]
+    },
+    {
+      "slug": "intensity",
+      "name": "Intensity Therapeutics",
+      "sub": "A New Perspective",
+      "categories": [ "dev" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "http://www.intensitytherapeutics.com"
+        }
+      ]
+    },
+    {
+      "slug": "colibrihv",
+      "name": "Colibri Heart Valve",
+      "sub": "Disruptive Heart Technology",
+      "categories": [ "uiux", "dev" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "http://www.colibrihv.com"
+        }
+      ]
+    },
+    {
+      "slug": "1up",
+      "name": "The 1up Colfax",
+      "sub": "Bits & Beats",
+      "categories": [ "print", "branding"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 3,
+      "links": [
+      ]
+    },
+    {
+      "slug": "thr",
+      "name": "Texas Health Resources",
+      "sub": "Social Responsibility & Community",
+      "categories": [ "web", "uiux", "dev" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "http://responsibility.texashealth.org"
+        }
+      ]
+    },
+    {
+      "slug": "rmw",
+      "name": "Rocky Mountain Wild",
+      "sub": "Protecting Wildlife & Wildlands",
+      "categories": [ "print", "branding"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 2,
+      "links": [
+      ]
+    },
+    {
+      "slug": "sinkcombs",
+      "name": "Sink Combs Dethlefs",
+      "sub": "Architecture",
+      "categories": [ "web", "uiux", "dev" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+        { "file": "desktop.png", "alt": "Sink Combs Desktop View" }
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "http://www.sinkcombs.com"
+        }
+      ]
+    },
+    {
+      "slug": "scratch",
+      "name": "RMG Engineering",
+      "sub": "Scratch The Surface App",
+      "categories": [ "dev" ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "gallery": [
+      ],
+      "sort": 0,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "https://www.rmg-engineers.com/scratch"
+        }
+      ]
+    }
+  ]
+}
