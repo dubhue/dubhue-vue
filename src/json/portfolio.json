@@ -69,7 +69,7 @@
       "name": "Intensity Therapeutics",
       "sub": "A New Perspective",
       "categories": [ "dev" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>Intensity Therapeutics has an important mission and therefore an important story to tell. They required a website that could communicate the wildly different approach they had for cancer treatment, and do so in an atypical way.</p><p>The website, inspired by the company’s logo and injective cancer treatment process, uses a circle motif that employs parallax to give the site dimension and motion. The circles needed to be able to respond to devices and grow and change shape and thickness depending on the available space and the content within it, requiring its own set of javascript functions. The unique approach earned the site an AVA Digital Award.</p>",
       "gallery": [
         { "file": "tablet.png", "alt": "tablet" },
         { "file": "mobile.jpg", "alt": "mobile"},
