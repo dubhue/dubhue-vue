@@ -7,6 +7,7 @@
       "categories": [ "web", "uiux", "dev"],
       "description": "<p>Behind every great structure are great plans—such is the same for a website. For the North Texas Municipal Water District, planning was key.</p><p>The sitemap was a balance of client desires met with what was found through research and analytics, to best alleviate pain points and bring to focus most-used content.</p><p>The result was a drastic but lauded change that led to recognition from Omni Awards and AVA Digital Awards.</p>",
       "gallery": [
+        { "file": "phone.png", "alt": "NTMWD Phone"}
       ],
       "sort": 0,
       "links": [
@@ -82,7 +83,7 @@
       "name": "Colibri Heart Valve",
       "sub": "Disruptive Heart Technology",
       "categories": [ "uiux", "dev" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>This project utilized the interactivity of web to convey the application of the TAVI product. The site used scroll reveal animation to demonstration the ready-for-use application of the TAVI system.</p>",
       "gallery": [
       ],
       "sort": 0,
@@ -96,10 +97,15 @@
     {
       "slug": "1up",
       "name": "The 1up Colfax",
-      "sub": "Bits & Beats",
+      "sub": "TheHundred Presents",
       "categories": [ "print", "branding", "digital"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>The 1up Colfax used to be more than a place you could go to grab a beer and play retro arcade games—they used to be a music venue as well. During that time, they hosted an eclectic variety of electronic dance music shows mixed with live jam bands, and they needed a look that paid homage to their video game roots but embodied their forward-thinking inclusion of music.</p><p>The venue required posters that could be printed in-house, as well as formatted into graphics for their website and multitude of social media platforms.</p>",
       "gallery": [
+        { "file": "cutcopy.png", "alt": "Cut Copy" },
+        { "file": "digital.png", "alt": "TheHundred presents Maribou State" },
+        { "file": "hermitude-fb.jpg", "alt": "Hermitude" },
+        { "file": "jeromelol.jpg", "alt": "Jerome LOL" },
+        { "file": "halloween.jpg", "alt": "Halloween" }
       ],
       "sort": 3,
       "links": [
@@ -110,7 +116,7 @@
       "name": "Texas Health Resources",
       "sub": "Social Responsibility & Community",
       "categories": [ "web", "uiux", "dev" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>Texas Health Resources wanted to stay savvy and move their print community responsibility and sustainability report into the digital world.</p><p>They did not want to sacrifice on content, but instead enhance it with an easy user experience and multimedia elements. Their digital report microsite allowed them to share their story and even garnered them recognition with an AVA Digital Award.</p>",
       "gallery": [
       ],
       "sort": 0,
@@ -126,8 +132,9 @@
       "name": "Rocky Mountain Wild",
       "sub": "Protecting Wildlife & Wildlands",
       "categories": [ "print", "branding"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>Rocky Mountain Wild is a small but hard-working nonprofit with a mission of protecting and preserving wildlands and wildlife. The organization needed collateral and branding to match their mission.</p>",
       "gallery": [
+        { "file": "rmw-ar.png", "alt": "RMW AR" },
         { "file": "sponsor-packet.png", "alt": "RMW Bites & Brews Sponsor Packet" }
       ],
       "sort": 2,
@@ -139,9 +146,11 @@
       "name": "Sink Combs Dethlefs",
       "sub": "Architecture",
       "categories": [ "web", "uiux", "dev" ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "description": "<p>This architecture firm wanted a website that showcased their portfolio photography while keeping a minimal interface. The site needed to be mobile and tablet optimized to those same goals.</p>",
       "gallery": [
-        { "file": "desktop.png", "alt": "Sink Combs Desktop View" }
+        { "file": "desktop.png", "alt": "Sink Combs Desktop View" },
+        { "file": "phone.jpg", "alt": "Mobile View" },
+        { "file": "ipad.jpg", "alt": "Tablet View"}
       ],
       "sort": 0,
       "links": [
@@ -178,6 +187,25 @@
       ],
       "sort": 20,
       "links": [
+      ]
+    },
+    {
+      "slug": "wmk",
+      "name": "Watermark Agency",
+      "sub": "Boutique Marketing Agency",
+      "categories": [ "dev", "uiux" ],
+      "description": "<p>Watermark Agency is a boutique marketing firm that needed a website that communicated their services and matched their clean and contemporary brand.</p>",
+      "gallery": [
+        { "file": "ipad.png", "alt": "WMK Homepage" },
+        { "file": "phone.jpg", "alt": "WMK Phone"},
+        { "file": "desktop.jpg", "alt": "WMK Desktop" }
+      ],
+      "sort": 2,
+      "links": [
+        {
+          "title": "View Website",
+          "url": "http://watermark.agency"
+        }
       ]
     },
     {

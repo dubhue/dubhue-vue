@@ -1,7 +1,7 @@
 <template lang="html">
   <article id="category" class="catpage">
     <div class="container-fluid">
-      <h1>{{ catInfo.name }}</h1>
+      <h1 class="cat-title">{{ catInfo.name }}</h1>
       <app-tile :name="'Project'" :array="activeProjects"></app-tile>
       </section>
 
@@ -51,8 +51,10 @@ export default {
 <style lang="scss">
 @import "../../scss/custom/vars";
 #category {
-  color: $colVerm;
-  text-align: left;
-  font-weight: $coLight;
+    .cat-title {
+      color: $colVerm;
+      text-align: left;
+      font-weight: $coLight;
+    }
 }
 </style>
