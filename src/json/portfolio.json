@@ -7,9 +7,7 @@
       "categories": [ "web", "uiux", "dev"],
       "description": "<p>Behind every great structure are great plans—such is the same for a website. For the North Texas Municipal Water District, planning was key.</p><p>The sitemap was a balance of client desires met with what was found through research and analytics, to best alleviate pain points and bring to focus most-used content.</p><p>The result was a drastic but lauded change that led to recognition from Omni Awards and AVA Digital Awards.</p>",
       "gallery": [
-        { "file": "phone.png", "alt": "NTMWD Phone"},
-        { "file": "tablet.jpg", "alt": "tablet"},
-        { "file": "desktop.jpg", "alt": "desktop" }
+        { "file": "phone.png", "alt": "NTMWD Phone"}
       ],
       "sort": 0,
       "links": [
